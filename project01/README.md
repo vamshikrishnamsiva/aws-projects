@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/ALB-Layer_7-orange?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white" alt="ALB" />
   <img src="https://img.shields.io/badge/Auto_Scaling-Self--Healing-green?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="ASG" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status" />
+  <p align="center">
+  <a href="https://youtu.be/JEoUEBt6pOc">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Here-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video on YouTube" />
+  </a>
+</p>
 </p>
 
 ![AWS Production Infrastructure Architecture](public/infra.gif)
@@ -477,6 +482,6 @@ During the deployment and testing of this production VPC infrastructure, the fol
 > [!TIP]
 > 📺 **Watch the complete step-by-step video walkthrough on YouTube:**
 > 
-> [![Watch Video on YouTube](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/JEoUEBt6pOc)
+> [![Watch Video on YouTube](https://img.shields.io/badge/YouTube-Watch%20Here-red?style=for-the-badge&logo=youtube)](https://youtu.be/JEoUEBt6pOc)
 > 
 > **Video Link:** [https://youtu.be/JEoUEBt6pOc](https://youtu.be/JEoUEBt6pOc)  
